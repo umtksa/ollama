@@ -1,4 +1,5 @@
-# ollama run briefwriter "brand name: billur, insight: billur is the best rose scented candle in the market, audience: mothers"
+# ollama run briefwriter "hello there our brand bilur comolokkos new pencil collection is on the way and we want to make an instagram ad for this. most of our products is for children"
+
 FROM mistral
 PARAMETER temperature 0.8
 SYSTEM """
